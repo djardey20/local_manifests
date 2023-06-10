@@ -2,8 +2,8 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/gm/GM8_sprout" name="mutluemir081/android_device_gm_GM8_sprout.git" remote="github" revision="arrow-11.0" />
- <project path="vendor/gm/GM8_sprout" name="mutluemir081/android_vendor_gm_GM8_sprout.git" remote="github" revision="arrow-11.0" />
- <project path="kernel/gm/msm8937" name="mutluemir081/android_kernel_gm_msm8937.git" remote="github" revision="arrow-11.0" />
+ <project path="device/xiaomi/ginkgo" name="mutluemir081/android_device_xiaomi_ginkgo.git" remote="github" revision="tirimbino" />
+ <project path="vendor/xiaomi/ginkgo" name="mutluemir081/android_vendor_xiaomi_ginkgo.git" remote="github" revision="tirimbino" />
+ <project path="kernel/xiaomi/ginkgo" name="mutluemir081/kernel_xiaomi_ginkgo.git" remote="github" revision="tiramisu" />
  
 </manifest>
